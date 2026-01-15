@@ -7,9 +7,9 @@ An autonomous scheduling assistant that eliminates manual calendar coordination.
 
 ## What It Does
 
-Traditional scheduling requires manual availability checks and context switching. Agenta automates this by acting as an executive assistant: it interprets unstructured text(e.g., "Book a 30-minute sync with Engineering next Tuesday"),validates the time slot against existing records, and creates the event automatically.
+Traditional scheduling requires manual availability checks and context switching. Agenta automates this by acting as an executive assistant: it interprets unstructured text(e.g., "Book a 30-minute sync with Engineering next Tuesday"), validates the time slot against existing records, and creates the event automatically.
 
-## Contributers
+## Contributors
 <a href="https://github.com/orbitronhd/nasa-bioquery/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=orbitronhd/agenta" />
 </a>  
