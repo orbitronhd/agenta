@@ -12,6 +12,6 @@ Traditional scheduling requires manual availability checks and context switching
 ## Contributers
 <a href="https://github.com/orbitronhd/nasa-bioquery/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=orbitronhd/agenta" />
-</a>
-
+</a>  
+  
 By the IT Mambas team.
