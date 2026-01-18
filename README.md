@@ -11,7 +11,7 @@ Traditional scheduling requires manual availability checks and context switching
 
 ## Contributors
 <a href="https://github.com/orbitronhd/agenta/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=orbitronhd/agenta" />
+  <img src="https://contrib.rocks/image?repo=orbitronhd/agenta" anon=1/>
 </a>
 
 
